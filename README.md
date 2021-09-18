@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mouhamed1296
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning some programming language like PHP JAVA JavaScript Python and so on 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m a junior fullsack developer an i usually use language like PHP JAVA JavaScript Python and so on
+- 💞️ I’m looking to collaborate on PHP and REACT
 - 📫 How to reach me email: mbayelel@gmail.com
 
 <!---
