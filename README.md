@@ -28,8 +28,6 @@ Above all, I am passionate about 🚀Technology💻, 🧪Science🔭 and Footbal
 <img width="40" src="https://cdn.svgporn.com/logos/django-icon.svg"/>
 
 <img width="40" src="https://cdn.svgporn.com/logos/php.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/wordpress-icon.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/symfony.svg"/>
 <img width="40" src="https://cdn.svgporn.com/logos/laravel.svg"/>
 
 <img width="40" src="https://cdn.svgporn.com/logos/java.svg"/>
