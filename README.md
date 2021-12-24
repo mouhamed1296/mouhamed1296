@@ -54,10 +54,10 @@ ________
 
 <h1 align="left">😉 Some Stats !📈</h1>
 <p align="center">
-<a href="https://orbitturner.com">
+<a href="#">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=mouhamed1296&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
-<a href="https://orbitturner.com">
+<a href="#">
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=mouhamed1296&theme=black-ice&hide_border=true" />
 </a>
 </p>
