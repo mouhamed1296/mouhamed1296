@@ -9,6 +9,9 @@ ________
 <strong>First, my real name is Mamadou Sarr(😅) and I'm 26 Years Old.<br>
 Above all, I am passionate about 🚀Technology💻, 🧪Science🔭 and Football, but also a writer in my spare time.
 <br>Mainly, I am a FullStack Developer living in Dakar, Senegal.</strong>
+   <a href="https://github.com/symfony/symfony/issues/46379">
+    I helped find and solve a bug in symfony framework check it out by clicking me 😉
+  </a>
 </p>
 
 
@@ -60,9 +63,6 @@ ________
 <a href="#">
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=mouhamed1296&theme=black-ice&hide_border=true" />
 </a>
-  <a href="https://github.com/symfony/symfony/issues/46379">
-    I helped find and solve a bug in symfony framework check it out by clicking me 😉
-  </a>
 </p>
 <br>
 
