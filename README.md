@@ -6,8 +6,8 @@
 ________
 <h1 align="left">🤩 About mouhamed1296 🤔</h1>
 <p  align="left">
-<strong>First, my real name is Mamadou Sarr(😅) and I'm 29 Years Old.<br>
-Above all, I am passionate about 🚀Technology💻, 🧪Science🔭 and Football, but also a writer in my spare time.
+<strong>First, my real name is Mamadou Sarr(😅).<br>
+I am passionate about 🚀Technology💻, 🧪Science🔭, Basketball and Football, but also a writer in my spare time.
 <br>Mainly, I am a FullStack Developer living in Dakar, Senegal.</strong>
    <a href="https://github.com/symfony/symfony/issues/46379">
     I helped find and solve a bug in symfony framework check it out by clicking me 😉
